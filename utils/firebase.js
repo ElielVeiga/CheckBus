@@ -4,12 +4,12 @@ import { getFirestore, collection, addDoc, Timestamp } from "firebase/firestore"
 // eslint-disable-next-line import/order
 
 const firebaseConfig = {
-  apiKey: "AIzaSyDU9gMnGCghgL1FmUVUpFmg2ERqmL5fonI",
-  authDomain: "appforvimsa.firebaseapp.com",
-  projectId: "appforvimsa",
-  storageBucket: "appforvimsa.appspot.com",
-  messagingSenderId: "673785792217",
-  appId: "1:673785792217:web:b267adccfacbeac8ef60c8"
+  apiKey: "api",
+  authDomain: "api",
+  projectId: "api",
+  storageBucket: "api",
+  messagingSenderId: "api",
+  appId: "api"
   // apiKey: process.env.EXPO_PUBLIC_FIREBASE_API_KEY,
   // authDomain: process.env.EXPO_PUBLIC_FIREBASE_AUTH_DOMAIN,
   // databaseURL: process.env.EXPO_PUBLIC_FIREBASE_DATABASE_URL,
