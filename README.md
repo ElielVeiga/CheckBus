@@ -3,6 +3,5 @@
 </h1>
 
 <h3>
-  Oque é o Check Bus ![WhatYouTalkingAboutCuteGIF](https://github.com/ElileVeiga/CheckBus/assets/87617242/ec77728b-cd7d-44a8-a622-a273e0692916)
-
+  Aplicativo mobile simples que verifica datas de vencimentos de autorizações de órgãos municipais e estatuais que ao encontrar uma data faltando 20 dias ou menos para o vencimento altera o indicador de verde para amarelo, caso a data de vencimento for a mesma do dia atual   é alterado o status para vermelho. APP SIMPLES PARA SUBSTITUIR PLANILHAS EXCEL 
 </h3>
